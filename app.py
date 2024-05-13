@@ -4,7 +4,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from IPython.display import Markdown
 import textwrap
 
-google_api_key = "AIzaSyDXeu-2fZXcfPcBETItnBKi86zyAwQzslI"
+google_api_key = "Api_key"
 
 def to_markdown(text):
     text = text.replace('•','*')
