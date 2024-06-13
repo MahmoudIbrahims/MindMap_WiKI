@@ -27,7 +27,7 @@ To run this application, you need to have the following installed:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/mindmap-wiki.git
+    git clone https://github.com/MahmoudIbrahims/mindmap-wiki.git
     cd mindmap-wiki
     ```
 
